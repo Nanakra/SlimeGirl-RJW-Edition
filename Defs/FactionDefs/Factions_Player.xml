@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<FactionDef>
+		<defName>SpaceSubjects</defName>
+		<label>space subjects</label>
+		<pawnSingular>subject</pawnSingular>
+		<pawnsPlural>subjects</pawnsPlural>
+		<requiredCountAtGameStart>1</requiredCountAtGameStart>
+		<fixedName>Subjects</fixedName>
+		<techLevel>Spacer</techLevel>
+		<backstoryCategories>
+			<li>SlimeStory</li>
+		</backstoryCategories>
+		<hidden>true</hidden>
+		<rescueesCanJoin>true</rescueesCanJoin>
+		<autoFlee>false</autoFlee>
+		<geneticVariance>0</geneticVariance>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags>
+	</FactionDef>
+</Defs>

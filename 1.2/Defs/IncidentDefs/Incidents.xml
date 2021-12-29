@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<IncidentDef>
+		<defName>SlimeRefugeePodCrash</defName>
+		<label>transport pod crash</label>
+		<category>Misc</category>
+		<targetTags>
+			<li>Map_PlayerHome</li>
+		</targetTags>
+		<workerClass>SlimeGirl.IncidentWorker_SlimeTransportPodCrash</workerClass>
+		<baseChance>1</baseChance>
+		<populationEffect>IncreaseMedium</populationEffect>
+	</IncidentDef>
+</Defs>

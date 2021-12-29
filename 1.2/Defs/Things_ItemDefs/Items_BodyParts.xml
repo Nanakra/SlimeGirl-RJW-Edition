@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef Name="BodyPartNaturalBase" ParentName="BodyPartBase"  Abstract="True">
+		<graphicData>
+			<texPath>Things/Slime_Corpse</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>0.80</drawSize>
+		</graphicData>
+		<thingCategories>
+			<li>BodyPartsNatural</li>
+		</thingCategories>
+		<statBases>
+			<DeteriorationRate>4.0</DeteriorationRate>
+		</statBases>
+	</ThingDef>
+
+	<ThingDef ParentName="BodyPartNaturalBase">
+		<defName>SlimeCore</defName>
+		<label>slime core</label>
+		<description>Slime "heart".</description>
+		<statBases>
+			<MarketValue>1500</MarketValue>
+			<Mass>1</Mass>
+		</statBases>
+	</ThingDef>
+
+</Defs>

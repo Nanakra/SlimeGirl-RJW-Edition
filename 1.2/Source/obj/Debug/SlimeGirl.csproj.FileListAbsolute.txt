@@ -1,0 +1,20 @@
+D:\Games\RimWorld Royalty\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.csprojAssemblyReference.cache
+D:\Games\RimWorld Royalty\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.csproj.CoreCompileInputs.cache
+D:\Games\RimWorld Royalty\Mods\SlimeGirl RJW Edition\1.1\Assemblies\SlimeGirl.dll
+D:\Games\RimWorld Royalty\Mods\SlimeGirl RJW Edition\1.1\Assemblies\SlimeGirl.pdb
+D:\Games\RimWorld Royalty\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.dll
+D:\Games\RimWorld Royalty\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.pdb
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.csprojAssemblyReference.cache
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.csproj.CoreCompileInputs.cache
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.dll
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.pdb
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.1\Assemblies\SlimeGirl.dll
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.1\Assemblies\SlimeGirl.pdb
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.1\Source\obj\Debug\SlimeGirl.csproj.CopyComplete
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.2\Assemblies\SlimeGirl.dll
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.2\Assemblies\SlimeGirl.pdb
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.2\Source\obj\Debug\SlimeGirl.csprojAssemblyReference.cache
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.2\Source\obj\Debug\SlimeGirl.csproj.CoreCompileInputs.cache
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.2\Source\obj\Debug\SlimeGirl.csproj.CopyComplete
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.2\Source\obj\Debug\SlimeGirl.dll
+H:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\SlimeGirl RJW Edition\1.2\Source\obj\Debug\SlimeGirl.pdb

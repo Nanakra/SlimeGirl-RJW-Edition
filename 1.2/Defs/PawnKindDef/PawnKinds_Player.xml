@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<PawnKindDef>
+		<defName>Slime</defName>
+		<label>Slime</label>
+		<isFighter>false</isFighter>
+		<combatPower>60</combatPower>
+		<itemQuality>Poor</itemQuality>
+		<apparelIgnoreSeasons>true</apparelIgnoreSeasons>
+		<forceNormalGearQuality>true</forceNormalGearQuality>
+		<backstoryCategories>
+			<li>SlimeStory</li>
+		</backstoryCategories>
+		<race>Slime</race>
+		<baseRecruitDifficulty>0.20</baseRecruitDifficulty>
+		<backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+		<defaultFactionType>SpaceSubjects</defaultFactionType>
+		<invNutrition>0</invNutrition>
+		<apparelAllowHeadgearChance>0.0</apparelAllowHeadgearChance>
+	</PawnKindDef>
+</Defs>

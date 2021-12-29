@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>  
+	<BodyPartDef>
+		<defName>SlimeHead</defName>
+		<label>head</label>
+		<hitPoints>25</hitPoints>
+		<skinCovered>true</skinCovered>
+		<bleedRate>0</bleedRate>
+		<canSuggestAmputation>false</canSuggestAmputation>
+		<destroyableByDamage>false</destroyableByDamage>
+		<beautyRelated>false</beautyRelated>
+		<solid>false</solid>
+		<frostbiteVulnerability>5</frostbiteVulnerability>
+		<permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+	</BodyPartDef>
+
+	<BodyPartDef>
+		<defName>SlimeCore</defName>
+		<label>slime core</label>
+		<hitPoints>15</hitPoints>
+		<skinCovered>false</skinCovered>
+		<bleedRate>0</bleedRate>
+		<canSuggestAmputation>false</canSuggestAmputation>
+		<destroyableByDamage>true</destroyableByDamage>
+		<beautyRelated>false</beautyRelated>
+		<frostbiteVulnerability>0</frostbiteVulnerability>
+		<permanentInjuryChanceFactor>99999</permanentInjuryChanceFactor>
+		<solid>true</solid>
+		<tags>
+			<li>BloodPumpingSource</li>
+			<li>BloodFiltrationSource</li>
+			<li>MetabolismSource</li>
+			
+			<li>ConsciousnessSource</li>
+			
+			<li>BreathingSource</li>
+			<li>BreathingSourceCage</li>
+			<li>BreathingPathway</li>		
+			<li>SightSource</li>
+			<li>HearingSource</li>
+			
+			<li>EatingSource</li>
+			<li>EatingPathway</li>
+			
+			<li>TalkingSource</li>
+			<li>TalkingPathway</li>
+			<li>ManipulationLimbSegment</li>
+			<li>ManipulationLimbCore</li>
+			<li>ManipulationLimbDigit</li>		
+			<li>MovingLimbCore</li>
+			<li>MovingLimbSegment</li>
+		</tags>
+	</BodyPartDef>	
+
+	<BodyPartDef>
+		<defName>SlimeTorso</defName>
+		<label>torso</label>
+		<hitPoints>120</hitPoints>
+		<skinCovered>true</skinCovered>
+		<bleedRate>0</bleedRate>
+		<canSuggestAmputation>false</canSuggestAmputation>
+		<destroyableByDamage>false</destroyableByDamage>
+		<beautyRelated>false</beautyRelated>
+		<solid>false</solid>
+		<frostbiteVulnerability>5</frostbiteVulnerability>
+		<permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+	</BodyPartDef>
+
+	<BodyPartDef>
+		<defName>SlimeTentacle</defName>
+		<label>tentacle</label>
+		<hitPoints>30</hitPoints>
+		<skinCovered>true</skinCovered>
+		<bleedRate>0</bleedRate>
+		<canSuggestAmputation>false</canSuggestAmputation>
+		<destroyableByDamage>false</destroyableByDamage>
+		<beautyRelated>false</beautyRelated>
+		<solid>false</solid>
+		<frostbiteVulnerability>5</frostbiteVulnerability>
+		<permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+	</BodyPartDef>
+	
+	<BodyPartDef>
+		<defName>SlimeWaist</defName>
+		<label>waist</label>
+		<skinCovered>true</skinCovered>
+		<bleedRate>0</bleedRate>
+		<canSuggestAmputation>false</canSuggestAmputation>
+		<destroyableByDamage>false</destroyableByDamage>
+		<beautyRelated>false</beautyRelated>
+		<solid>false</solid>
+		<frostbiteVulnerability>5</frostbiteVulnerability>
+		<permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+		<conceptual>true</conceptual>
+	</BodyPartDef>
+
+	<BodyPartDef>
+		<defName>SlimeLowerBody</defName>
+		<label>lower body</label>
+		<skinCovered>false</skinCovered>
+		<bleedRate>0</bleedRate>
+		<canSuggestAmputation>false</canSuggestAmputation>
+		<destroyableByDamage>false</destroyableByDamage>
+		<beautyRelated>false</beautyRelated>
+		<solid>false</solid>
+		<frostbiteVulnerability>5</frostbiteVulnerability>
+		<permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+	</BodyPartDef>
+</Defs>

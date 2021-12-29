@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<SlimeLetterLabelRefugeePodCrash>Transport pod crash</SlimeLetterLabelRefugeePodCrash>
+	<SlimeRefugeePodCrash>Something inside the crashed pod. It came out of pod and looked like a silme.</SlimeRefugeePodCrash>
+	<SlimeRefugeePodCrash_Factionless></SlimeRefugeePodCrash_Factionless>
+	<SlimeRefugeePodCrash_Hostile></SlimeRefugeePodCrash_Hostile>
+	<SlimeRefugeePodCrash_NonHostile></SlimeRefugeePodCrash_NonHostile>
+
+</LanguageData>

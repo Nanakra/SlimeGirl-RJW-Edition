@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlimeGirl", "SlimeGirl.csproj", "{7DACC76D-6BE8-4071-ACE7-D4C733A7F79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DACC76D-6BE8-4071-ACE7-D4C733A7F79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DACC76D-6BE8-4071-ACE7-D4C733A7F79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DACC76D-6BE8-4071-ACE7-D4C733A7F79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DACC76D-6BE8-4071-ACE7-D4C733A7F79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2794014-A50E-4641-B33F-5256AFF9921C}
+	EndGlobalSection
+EndGlobal

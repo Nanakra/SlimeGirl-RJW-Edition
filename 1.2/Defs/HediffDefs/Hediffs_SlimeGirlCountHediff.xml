@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HediffDef Class="SlimeGirl.Hediff_SlimeDef">
+		<defName>Hediff_Slime</defName>
+		<hediffClass>SlimeGirl.Hediff_Slime</hediffClass>
+		<description>slime</description>
+		<label>Slime</label>
+		<makesSickThought>false</makesSickThought>
+		<initialSeverity>0</initialSeverity>
+		<minSeverity>0</minSeverity>
+		<maxSeverity>1</maxSeverity>
+		<isBad>false</isBad>
+		<tendable>false</tendable>
+		<maxCount>6000</maxCount>
+		<tickPerHunger>0.00001</tickPerHunger>
+		<stages>
+			<li>
+				<becomeVisible>false</becomeVisible>
+				<label>default</label>
+			</li>
+			<li>
+				<becomeVisible>false</becomeVisible>
+				<label>minor</label>
+				<minSeverity>0.25</minSeverity>
+			</li>
+			<li>
+				<becomeVisible>false</becomeVisible>
+				<label>little</label>
+				<minSeverity>0.5</minSeverity>
+			</li>
+			<li>
+				<becomeVisible>false</becomeVisible>
+				<label>full</label>
+				<minSeverity>0.75</minSeverity>
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef>
+		<defName>Slime_AutoRecovery</defName>
+		<hediffClass>HediffWithComps</hediffClass>
+		<description>AutoRecovery</description>
+		<label>auto recover</label>
+		<defaultLabelColor>(0.5,0.9,0.9)</defaultLabelColor>
+		<scenarioCanAdd>false</scenarioCanAdd>
+		<maxSeverity>1.0</maxSeverity>
+		<isBad>false</isBad>
+		<everCurableByItem>false</everCurableByItem>
+		<comps>
+			<li Class="SlimeGirl.HediffCompProperties_AutoRecovery">
+				<healPoint>1</healPoint>
+				<tickMultiflier>1000</tickMultiflier>
+			</li>
+		</comps>
+		<stages>
+			<li>
+				<label>permanent</label>
+				<becomeVisible>false</becomeVisible>
+				<painFactor>0</painFactor>
+			</li>
+		</stages>
+	</HediffDef>
+</Defs>
+
+

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- <HairDef> -->
+		<!-- <defName>Slime_Hair</defName> -->
+		<!-- <label>Slime Hair </label> -->
+		<!-- <hairGender>Female</hairGender> -->
+		<!-- <texPath>Hair/SL_Hair</texPath> -->
+		<!-- <hairTags> -->
+			<!-- <li>SL_Hair</li> -->
+		<!-- </hairTags>  -->
+	<!-- </HairDef> -->
+	
+	<HairDef>
+		<defName>AA</defName> 
+		<texPath>Things/Slime/Bodies/Naked_AA</texPath>
+		<label>Slime Hair AA</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags>
+	</HairDef>	
+	<HairDef>
+		<defName>AB</defName> 
+		<texPath>Things/Slime/Bodies/Naked_AB</texPath>
+		<label>Slime Hair AB</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>AC</defName> 
+		<texPath>Things/Slime/Bodies/Naked_AC</texPath>
+		<label>Slime Hair AC</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>AD</defName> 
+		<texPath>Things/Slime/Bodies/Naked_AD</texPath>
+		<label>Slime Hair AD</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+
+	<HairDef>
+		<defName>BA</defName> 
+		<texPath>Things/Slime/Bodies/Naked_BA</texPath>
+		<label>Slime Hair BA</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>BB</defName> 
+		<texPath>Things/Slime/Bodies/Naked_BB</texPath>
+		<label>Slime Hair BB</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>BC</defName> 
+		<texPath>Things/Slime/Bodies/Naked_BC</texPath>
+		<label>Slime Hair BC</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>BD</defName> 
+		<texPath>Things/Slime/Bodies/Naked_BD</texPath>
+		<label>Slime Hair BD</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+
+	<HairDef>
+		<defName>CA</defName> 
+		<texPath>Things/Slime/Bodies/Naked_CA</texPath>
+		<label>Slime Hair CA</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>CB</defName> 
+		<texPath>Things/Slime/Bodies/Naked_CB</texPath>
+		<label>Slime Hair CB</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>CC</defName> 
+		<texPath>Things/Slime/Bodies/Naked_CC</texPath>
+		<label>Slime Hair CC</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>CD</defName> 
+		<texPath>Things/Slime/Bodies/Naked_CD</texPath>
+		<label>Slime Hair CD</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+
+	<HairDef>
+		<defName>DA</defName> 
+		<texPath>Things/Slime/Bodies/Naked_DA</texPath>
+		<label>Slime Hair DA</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>DB</defName> 
+		<texPath>Things/Slime/Bodies/Naked_DB</texPath>
+		<label>Slime Hair DB</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>DC</defName> 
+		<texPath>Things/Slime/Bodies/Naked_DC</texPath>
+		<label>Slime Hair DC</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+	<HairDef>
+		<defName>DD</defName> 
+		<texPath>Things/Slime/Bodies/Naked_DD</texPath>
+		<label>Slime Hair DD</label>
+		<hairGender>Female</hairGender>
+		<hairTags>
+			<li>SL_Hair</li>
+		</hairTags> 
+	</HairDef>
+
+</Defs>
